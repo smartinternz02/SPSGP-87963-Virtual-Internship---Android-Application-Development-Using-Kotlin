@@ -1,0 +1,11 @@
+# SPSGP-87963-Virtual-Internship---Android-Application-Development-Using-Kotlin
+Virtual Internship - Android Application Development Using Kotlin
+
+# Project Title
+## **GROCERY APP**
+
+#### This project is done as a part of the Virtual Internship Program conducted by Smartinternz supported by Google on Android Application Development: Kotlin
+
+#### Google developer profile:https://g.dev/jessicavareed
+
+#### Demo link: https://drive.google.com/file/d/1FvvlINMraLPdKnB4sKwNLgd0lE9XCLGc/view?usp=sharing
